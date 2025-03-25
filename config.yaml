@@ -1,6 +1,6 @@
 # required configuration options
-name: Fusion
-version: 2024.10.1
+name: Fork-Fusion
+version: 2024.10.5
 slug: ha_fusion
 description: A modern, easy-to-use and performant custom Home Assistant dashboard
 arch:
@@ -12,7 +12,7 @@ arch:
 init: false
 
 # homepage of the add-on
-url: https://github.com/matt8707/addon-ha-fusion
+url: https://github.com/zero5549/addon-ha-fusion
 
 # icon for the menu panel integration
 panel_icon: mdi:atom
